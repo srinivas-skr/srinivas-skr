@@ -1,7 +1,6 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <h3 align="center">A Passionate Developer</h3>
-<img align="right" alt="analytics" width="400" src="https://iili.io/JU1Fk74.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas-skr" /> </p>
 
@@ -41,8 +40,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact" alt="srinivas-skr" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en" alt="srinivas-skr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-skr&" alt="srinivas-skr" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact" alt="srinivas-skr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en" alt="srinivas-skr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-skr&" alt="srinivas-skr" />
+</div>
