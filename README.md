@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/srinivas-skr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Srinivas;A+Passionate+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=0D1117_161B22¢er=true&vCenter=true&width=550&lines=Srinivas+%7C+Software+Developer;Building+Elegant+Solutions+with+Code;Passionate+about+Python%2C+Web+%26+Data+Science" alt="Srinivas - Software Developer" />
   </a>
 </p>
 
@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact" alt="srinivas-skr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en" alt="srinivas-skr" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en" alt="srinivas-skr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-skr&" alt="srinivas-skr" /></p>
