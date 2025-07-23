@@ -32,14 +32,5 @@
 </p>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="srinivas-skr" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="srinivas-skr" />
 </div>
