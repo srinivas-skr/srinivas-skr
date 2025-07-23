@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
+
 - 🙌 **Dedicated to pursuing excellence in software development**
   
 - 🌱 I'm currently exploring **Python, Web Development, Data Science**
@@ -18,6 +20,8 @@
 - 📫 To reach me: **your-email@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about coding and innovation**
+
+<br clear="left"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,7 +34,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="srinivas-skr" />
-</div>
