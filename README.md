@@ -49,7 +49,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="srinivas-skr" />
      
   <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="srinivas-skr" />
 </div>
