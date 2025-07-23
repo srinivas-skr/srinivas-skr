@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/srinivas-skr">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=0D1117_161B22¢er=true&vCenter=true&width=650&lines=Building+Elegant+Solutions+with+Code;Passionate+about+Python%2C+Web+%26+Data+Science" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=0D1117_161B22¢er=true&vCenter=true&width=750&lines=Building+Elegant+Solutions+with+Code;Passionate+about+Python%2C+Web+%26+Data+Science" alt="Typing Animation" />
   </a>
 </p>
 
