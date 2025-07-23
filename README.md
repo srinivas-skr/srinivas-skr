@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
 
 - 🙌 **Dedicated to pursuing excellence in software development**
   
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm passionate about coding and innovation**
 
-<br clear="left"/>
+<br clear="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
