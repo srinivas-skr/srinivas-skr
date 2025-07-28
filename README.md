@@ -4,19 +4,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=ffffff&color=0077B5"
+      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0077B5"
       alt="LinkedIn"
     />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=ffffff&color=1DA1F2"
+      src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=twitter&logoColor=1DA1F2"
       alt="Twitter"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=ffffff&color=D14836"
+      src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836"
       alt="Gmail"
     />
   </a>
