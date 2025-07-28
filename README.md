@@ -6,19 +6,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/static/v1?style=flat&label=LinkedIn&message=&color=ffffff&logo=linkedin&logoColor=0077B5"
+      src="https://img.shields.io/static/v1?style=flat&label=LinkedIn&color=ffffff&logo=linkedin&logoColor=0077B5"
       alt="LinkedIn"
     />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
-      src="https://img.shields.io/static/v1?style=flat&label=Twitter&message=&color=ffffff&logo=twitter&logoColor=1DA1F2"
+      src="https://img.shields.io/static/v1?style=flat&label=Twitter&color=ffffff&logo=twitter&logoColor=1DA1F2"
       alt="Twitter"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://img.shields.io/static/v1?style=flat&label=Gmail&message=&color=ffffff&logo=gmail&logoColor=D14836"
+      src="https://img.shields.io/static/v1?style=flat&label=Gmail&color=ffffff&logo=gmail&logoColor=D14836"
       alt="Gmail"
     />
   </a>
