@@ -2,23 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Badges Section -->
+<!-- Social Badges Section (Corrected Style) -->
 <p align="center">
-  <!-- Twitter -->
-  <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="Connect on LinkedIn">
   </a>
-  
-  <!-- Email -->
+  <a href="https://twitter.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter" alt="Follow on Twitter">
+  </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-grey?style=social&logo=gmail" alt="Contact Me">
   </a>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr" />
@@ -47,7 +43,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<!-- Languages and Tools (New Style for differentiation) -->
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
