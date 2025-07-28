@@ -5,13 +5,13 @@
 <!-- Social Badges Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?style=social&logo=linkedin&label=LinkedIn" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter">
+    <img src="https://img.shields.io/static/v1?style=social&logo=twitter&label=Twitter" alt="Twitter">
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail">
+    <img src="https://img.shields.io/static/v1?style=social&logo=gmail&label=Gmail" alt="Gmail">
   </a>
 </p>
 
