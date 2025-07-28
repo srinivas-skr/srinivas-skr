@@ -2,21 +2,33 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Badges Section -->
+<!-- Social Buttons (white pills with icon + label only) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/static/v1?style=social&logo=linkedin&label=LinkedIn" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/static/v1?style=flat&label=LinkedIn&message=&color=ffffff&logo=linkedin&logoColor=0077B5"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/static/v1?style=social&logo=twitter&label=Twitter" alt="Twitter">
+    <img
+      src="https://img.shields.io/static/v1?style=flat&label=Twitter&message=&color=ffffff&logo=twitter&logoColor=1DA1F2"
+      alt="Twitter"
+    />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?style=social&logo=gmail&label=Gmail" alt="Gmail">
+    <img
+      src="https://img.shields.io/static/v1?style=flat&label=Gmail&message=&color=ffffff&logo=gmail&logoColor=D14836"
+      alt="Gmail"
+    />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr" />
+  <img
+    src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square"
+    alt="srinivas-skr"
+  />
 </p>
 
 <h3 align="left">👨‍💻 About Me</h3>
@@ -25,7 +37,11 @@
   A dedicated software developer with a strong focus on Python, Web Development, and Data Science. I am passionate about writing clean, efficient code to build scalable applications and solve complex problems. I am always eager to master emerging technologies and apply them to impactful, real-world projects.
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
+<img
+  align="right"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
+  alt="srinivas-skr"
+/>
 
 - 🌱 **I’m currently learning:** Advanced data analysis libraries and cloud deployment strategies.  
 - 🔭 **I’m currently working on:** A full-stack web application that leverages machine learning.  
@@ -37,7 +53,10 @@
 
 <!-- Animated Separator Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    alt="separator"
+  />
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
