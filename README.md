@@ -2,18 +2,31 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Buttons (logos only) -->
+<!-- Social Icons Only -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="30" alt="LinkedIn Logo"/>
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      alt="LinkedIn"
+      width="32"
+      height="32"
+    />
   </a>
-     
-  <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="30" alt="Twitter Logo"/>
+  <a href="https://twitter.com/YOUR_USERNAME_HERE" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg"
+      alt="Twitter"
+      width="32"
+      height="32"
+    />
   </a>
-     
   <a href="mailto:your-email@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" alt="Gmail Logo"/>
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      alt="Gmail"
+      width="32"
+      height="32"
+    />
   </a>
 </p>
 
