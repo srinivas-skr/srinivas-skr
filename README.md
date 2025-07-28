@@ -2,21 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Badges Section -->
+<!-- Social Badges Section (New Style) -->
 <p align="center">
   <!-- Twitter -->
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter" alt="Twitter"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
   
   <!-- Email -->
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-red?style=social&logo=gmail" alt="Email"/>
   </a>
 </p>
 
