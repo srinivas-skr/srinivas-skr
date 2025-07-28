@@ -2,25 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Buttons (white pills with icon + label only) -->
+<!-- Social Buttons (logos only) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img
-      src="https://img.shields.io/static/v1?style=flat&label=LinkedIn&color=ffffff&logo=linkedin&logoColor=0077B5"
-      alt="LinkedIn"
-    />
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="30" alt="LinkedIn Logo"/>
   </a>
+     
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img
-      src="https://img.shields.io/static/v1?style=flat&label=Twitter&color=ffffff&logo=twitter&logoColor=1DA1F2"
-      alt="Twitter"
-    />
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="30" alt="Twitter Logo"/>
   </a>
+     
   <a href="mailto:your-email@gmail.com">
-    <img
-      src="https://img.shields.io/static/v1?style=flat&label=Gmail&color=ffffff&logo=gmail&logoColor=D14836"
-      alt="Gmail"
-    />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" alt="Gmail Logo"/>
   </a>
 </p>
 
