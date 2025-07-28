@@ -6,7 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr" />
 </p>
 
-<p align="center">
+<!-- This is the new "About Me" header image -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007bff&height=3§ion=header" />
+</p>
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
   A dedicated software developer with a strong focus on Python, Web Development, and Data Science. I am passionate about writing clean, efficient code to build scalable applications and solve complex problems. I am always eager to master emerging technologies and apply them to impactful, real-world projects.
 </p>
 
@@ -21,12 +27,12 @@
 
 <br clear="right"/>
 
-<!-- This is the animated line you liked -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- This is the new "Languages and Tools" header image -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007bff&height=3§ion=header" />
 </p>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
