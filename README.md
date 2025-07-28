@@ -4,14 +4,14 @@
 
 <!-- Social Badges Section -->
 <p align="center">
-  <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter">
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail">
   </a>
 </p>
 
@@ -27,10 +27,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" />
 
-- 🌱 **I’m currently learning:** Advanced data analysis libraries and cloud deployment strategies.
-- 🔭 **I’m currently working on:** A full-stack web application that leverages machine learning.
-- 🤝 **I’m looking to collaborate on:** Open-source projects related to data tools or web development.
-- 💬 **Ask me about:** Python, REST APIs, and getting started with data science.
+- 🌱 **I’m currently learning:** Advanced data analysis libraries and cloud deployment strategies.  
+- 🔭 **I’m currently working on:** A full-stack web application that leverages machine learning.  
+- 🤝 **I’m looking to collaborate on:** Open-source projects related to data tools or web development.  
+- 💬 **Ask me about:** Python, REST APIs, and getting started with data science.  
 - ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
 <br clear="right"/>
@@ -42,7 +42,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<!-- Languages and Tools (Different style for visual separation) -->
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
