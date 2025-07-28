@@ -2,19 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Badges Section (Corrected Style) -->
+<!-- Social Badges Section (Corrected to match the image style) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter" alt="Follow on Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter">
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-grey?style=social&logo=gmail" alt="Contact Me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail">
   </a>
 </p>
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr" />
