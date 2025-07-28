@@ -2,6 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
+<!-- Social Badges Section -->
+<p align="center">
+  <!-- Twitter -->
+  <a href="https://twitter.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr" />
 </p>
@@ -18,7 +36,6 @@
 - 🔭 **I’m currently working on:** A full-stack web application that leverages machine learning.
 - 🤝 **I’m looking to collaborate on:** Open-source projects related to data tools or web development.
 - 💬 **Ask me about:** Python, REST APIs, and getting started with data science.
-- 📫 **How to reach me:** your-email@gmail.com
 - ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
 <br clear="right"/>
