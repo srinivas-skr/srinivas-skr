@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
-<!-- Social Badges Section (Corrected to the single, clean style) -->
+<!-- Social Badges Section -->
 <p align="center">
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -42,7 +42,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<!-- Languages and Tools (Kept as flat-square for visual difference) -->
+<!-- Languages and Tools (Different style for visual separation) -->
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
