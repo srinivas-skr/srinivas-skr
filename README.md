@@ -1,53 +1,47 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-
-<!-- Social Buttons (white pills with icon + label) -->
+<!-- Social Buttons (white pills with icon + label only) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=ffffff&style=flat&logo=linkedin&logoColor=0077B5"
+      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0077B5&labelColor=ffffff"
       alt="LinkedIn"
     />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
-      src="https://img.shields.io/static/v1?label=&message=Twitter&color=ffffff&style=flat&logo=twitter&logoColor=1DA1F2"
+      src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=x&logoColor=1DA1F2&labelColor=ffffff"
       alt="Twitter"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://img.shields.io/static/v1?label=&message=Gmail&color=ffffff&style=flat&logo=gmail&logoColor=D14836"
+      src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836&labelColor=ffffff"
       alt="Gmail"
     />
   </a>
 </p>
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square"
     alt="srinivas-skr"
   />
 </p>
-
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
   A dedicated software developer with a strong focus on Python, Web Development, and Data Science. I am passionate about writing clean, efficient code to build scalable applications and solve complex problems. I am always eager to master emerging technologies and apply them to impactful, real-world projects.
 </p>
-
 <img
   align="right"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
   alt="srinivas-skr"
 />
-
 - 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.  
 - 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.  
 - 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.  
 - 💬 **Ask me about:** Python, REST APIs, and getting started with data science.  
 - ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 <br clear="right"/>
-
 <!-- Animated Separator Line -->
 <p align="center">
   <img
@@ -55,7 +49,6 @@
     alt="separator"
   />
 </p>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
