@@ -10,17 +10,18 @@
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
-      src="https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=x&logoColor=1DA1F2"
+      src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=x&logoColor=1DA1F2&labelColor=ffffff"
       alt="Twitter"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://img.shields.io/badge/-Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836"
+      src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836&labelColor=ffffff"
       alt="Gmail"
     />
   </a>
 </p>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square"
