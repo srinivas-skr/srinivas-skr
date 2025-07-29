@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <!-- Social Buttons (white pills with icon + label only) -->
 <!-- Social Buttons (white pills with icon + label only) -->
+<!-- Social Buttons (white pills with icon + label only) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0077B5&labelColor=ffffff"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat"
       alt="LinkedIn"
     />
   </a>
