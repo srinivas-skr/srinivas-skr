@@ -1,21 +1,15 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
+
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
+
 <!-- Social Buttons (white pills with icon + label only) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/static/v1
-        ?label=
-        &message=LinkedIn
-        &color=ffffff
-        &style=flat
-        &logo=linkedin
-        &logoColor=0077B5"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=%23ffffff&style=flat&logo=linkedin&logoColor=%230077B5"
       alt="LinkedIn"
     />
   </a>
-</p>
-
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
       src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=x&logoColor=1DA1F2&labelColor=ffffff"
@@ -30,12 +24,13 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square"
-    alt="srinivas-skr"
+    alt="srinivas-skr profile views"
   />
 </p>
+
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
