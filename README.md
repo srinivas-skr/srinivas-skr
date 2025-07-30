@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30"/></a>
+<a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="25"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_USERNAME_HERE"><img src="https://iili.io/FSkZQaf.png" alt="Twitter" width="30"/></a>
+<a href="https://twitter.com/YOUR_USERNAME_HERE"><img src="https://iili.io/FSkZQaf.png" alt="Twitter" width="25"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com"><img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="30"/></a>
+<a href="mailto:your-email@gmail.com"><img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="25"/></a>
 </p>
 
 <p align="left">
