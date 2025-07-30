@@ -1,46 +1,61 @@
 ![alt text](https://iili.io/JU1Yhg4.gif)
 
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<!-- Social Buttons (white pills with icon + label only) -->
+
+<!-- Social Buttons - Using div with CSS to override GitHub's default link styling -->
+<div align="center">
+  <style>
+    .social-links a {
+      text-decoration: none !important;
+      border: none !important;
+      outline: none !important;
+    }
+    .social-links a:hover {
+      text-decoration: none !important;
+    }
+  </style>
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
+      <img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30" style="margin-right: 20px;"/>
+    </a>
+    <a href="https://twitter.com/YOUR_USERNAME_HERE">
+      <img src="https://iili.io/FSkZQaf.png" alt="Twitter" width="30" style="margin-right: 20px;"/>
+    </a>
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="30"/>
+    </a>
+  </div>
+</div>
+
+<!-- Alternative approach if the above doesn't work - Using table method -->
+<!--
+<div align="center">
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30"/></a></td>
+<td width="20"></td>
+<td><a href="https://twitter.com/YOUR_USERNAME_HERE"><img src="https://iili.io/FSkZQaf.png" alt="Twitter" width="30"/></a></td>
+<td width="20"></td>
+<td><a href="mailto:your-email@gmail.com"><img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="30"/></a></td>
+</tr>
+</table>
+</div>
+-->
+
+<!-- Third approach - Pure Markdown with reference links -->
+<!--
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE" style="text-decoration: none;">
-<img
-src="https://iili.io/FSvLudx.png"
-alt="LinkedIn"
-width="30"
-style="margin-right: 20px;"
-/>
-</a>
-<a href="https://twitter.com/YOUR_USERNAME_HERE" style="text-decoration: none;">
-<img
-src="https://iili.io/FSkZQaf.png"
-alt="Twitter"
-width="30"
-style="margin-right: 20px;"
-/>
-</a>
-<a href="mailto:your-email@gmail.com" style="text-decoration: none;">
-<img
-src="https://iili.io/FSvPiLg.png"
-alt="Gmail"
-width="30"
-/>
-</a>
+<a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_USERNAME_HERE"><img src="https://iili.io/FSkZQaf.png" alt="Twitter" width="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:your-email@gmail.com"><img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="30"/></a>
 </p>
+-->
 
 <p align="left">
-<img
-src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square"
-alt="srinivas-skr"
-/>
+<img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr"/>
 </p>
 
-
-<img
-align="right"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
-alt="srinivas-skr"
-/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
 
 🌱 I'm currently learning: Advanced data analysis libraries and cloud deployment strategies.
 
@@ -55,12 +70,8 @@ alt="srinivas-skr"
 <br clear="right"/>
 
 <!-- Animated Separator Line -->
-
 <p align="center">
-<img
-src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-alt="separator"
-/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
