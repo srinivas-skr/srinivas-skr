@@ -1,28 +1,37 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<!-- Social Buttons (white pills with icon + label only) -->
+
+<!-- Social Buttons - Method 1: CSS Style Block -->
+<style>
+a img {
+  text-decoration: none !important;
+  border: none !important;
+}
+</style>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
       src="https://iili.io/FSvLudx.png"
       alt="LinkedIn"
       width="30"
-      style="margin-right: 15px;"
+      style="margin-right: 15px; border: none; text-decoration: none;"
     />
   </a>
-<a href="https://twitter.com/YOUR_USERNAME_HERE" style="text-decoration: none;">
+  <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
       width="30"
-      style="margin-right: 15px;"
+      style="margin-right: 15px; border: none; text-decoration: none;"
     />
-</a>
-  <a href="mailto:your-email@gmail.com" style="text-decoration: none;">
+  </a>
+  <a href="mailto:your-email@gmail.com">
     <img
       src="https://iili.io/FSvPiLg.png"
       alt="Gmail"
       width="30"
+      style="border: none; text-decoration: none;"
     />
   </a>
 </p>
@@ -46,13 +55,9 @@
 />
 
 - 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.
-
 - 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.
-
 - 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.
-
 - 💬 **Ask me about:** Python, REST APIs, and getting started with data science.
-
 - ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
 <br clear="right"/>
