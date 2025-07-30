@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <!-- Social Buttons (white pills with icon + label only) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE" style="text-decoration: none;">
     <img
       src="https://iili.io/FSvLudx.png"
       alt="LinkedIn"
@@ -10,7 +10,7 @@
       style="margin-right: 15px;"
     />
   </a>
-<a href="https://twitter.com/YOUR_USERNAME_HERE">
+<a href="https://twitter.com/YOUR_USERNAME_HERE" style="text-decoration: none;">
     <img
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
@@ -18,7 +18,7 @@
       style="margin-right: 15px;"
     />
 </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-email@gmail.com" style="text-decoration: none;">
     <img
       src="https://iili.io/FSvPiLg.png"
       alt="Gmail"
