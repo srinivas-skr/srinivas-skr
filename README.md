@@ -16,15 +16,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
 
-🌱 I'm currently learning: Advanced data analysis libraries and cloud deployment strategies.
-
-🔭 I'm currently working on: A full-stack web application that leverages machine learning.
-
-🤝 I'm looking to collaborate on: Open-source projects related to data tools or web development.
-
-💬 Ask me about: Python, REST APIs, and getting started with data science.
-
-⚡ Fun fact: I believe the best solutions are found at the intersection of creativity and code.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D353&multiline=true&width=800&height=120&lines=🌱+Currently+learning%3A+Advanced+data+analysis+libraries+and+cloud+deployment;🔭+Working+on%3A+Full-stack+web+application+with+machine+learning;🤝+Looking+to+collaborate+on%3A+Open-source+data+tools+and+web+projects;💬+Ask+me+about%3A+Python%2C+REST+APIs%2C+and+data+science;⚡+Fun+fact%3A+Best+solutions+are+at+creativity+%2B+code+intersection)](https://git.io/typing-svg)
 
 <br clear="right"/>
 
