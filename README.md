@@ -4,21 +4,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedIn&logoColor=0077B5&labelColor=ffffff"
+      src="https://iili.io/FSvwRnI.png"
       alt="LinkedIn"
+      width="27"
+      style="margin-right: 15px;"
     />
   </a>
 <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
-      width="24"
+      width="27"
+      style="margin-right: 15px;"
     />
 </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836&labelColor=ffffff"
+      src="https://iili.io/FSvkLqN.png"
       alt="Gmail"
+      width="27"
     />
   </a>
 </p>
