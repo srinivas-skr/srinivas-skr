@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0077B5&labelColor=ffffff"
+      src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat&logo=linkedIn&logoColor=0077B5&labelColor=ffffff"
       alt="LinkedIn"
     />
   </a>
