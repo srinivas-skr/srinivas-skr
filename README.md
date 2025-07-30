@@ -15,7 +15,7 @@ a img {
       src="https://iili.io/FSvLudx.png"
       alt="LinkedIn"
       width="30"
-      style="margin-right: 15px; vertical-align: middle;"
+      style="margin-right: 20px; vertical-align: middle;"
     />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
@@ -23,7 +23,7 @@ a img {
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
       width="30"
-      style="margin-right: 15px; vertical-align: middle;"
+      style="margin-right: 20px; vertical-align: middle;"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
