@@ -10,7 +10,7 @@
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
-      src="https://img.shields.io/badge/Twitter-ffffff?style=flat&logo=x&logoColor=1DA1F2&labelColor=ffffff"
+      src="https://freeimage.host/i/FSkZQaf"
       alt="Twitter"
     />
   </a>
