@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_PROFILE_ID_HERE">
     <img
-      src="https://iili.io/FSvwRnI.png"
+      src="https://iili.io/FSvLudx.png"
       alt="LinkedIn"
-      width="27"
+      width="30"
       style="margin-right: 15px;"
     />
   </a>
@@ -14,15 +14,15 @@
     <img
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
-      width="27"
+      width="30"
       style="margin-right: 15px;"
     />
 </a>
   <a href="mailto:your-email@gmail.com">
     <img
-      src="https://iili.io/FSvkLqN.png"
+      src="https://iili.io/FSvPiLg.png"
       alt="Gmail"
-      width="27"
+      width="30"
     />
   </a>
 </p>
