@@ -74,8 +74,3 @@ alt="separator"
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-Google Search Suggestions
-Display of Search Suggestions is required when using Grounding with Google Search. Learn more
-remove html section
-html code without about me section
