@@ -8,12 +8,13 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME_HERE">
+<a href="https://twitter.com/YOUR_USERNAME_HERE">
     <img
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
+      width="24"
     />
-  </a>
+</a>
   <a href="mailto:your-email@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&logoColor=D14836&labelColor=ffffff"
