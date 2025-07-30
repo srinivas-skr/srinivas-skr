@@ -15,7 +15,7 @@ a img {
       src="https://iili.io/FSvLudx.png"
       alt="LinkedIn"
       width="30"
-      style="margin-right: 15px; border: none; text-decoration: none;"
+      style="margin-right: 15px; vertical-align: middle;"
     />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME_HERE">
@@ -23,7 +23,7 @@ a img {
       src="https://iili.io/FSkZQaf.png"
       alt="Twitter"
       width="30"
-      style="margin-right: 15px; border: none; text-decoration: none;"
+      style="margin-right: 15px; vertical-align: middle;"
     />
   </a>
   <a href="mailto:your-email@gmail.com">
@@ -31,10 +31,11 @@ a img {
       src="https://iili.io/FSvPiLg.png"
       alt="Gmail"
       width="30"
-      style="border: none; text-decoration: none;"
+      style="vertical-align: middle;"
     />
   </a>
 </p>
+
 
 <p align="left">
   <img
