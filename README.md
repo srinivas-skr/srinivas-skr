@@ -40,7 +40,7 @@
 
 <!-- Matrix Digital Rain -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/5a/2c/315a2c141da594268e34585f815a5198.gif" alt="Matrix Code Rain"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e7c5576-2426-448f-8422-38605f6a1d2e.gif" alt="Matrix Code Rain"/>
 </p>
 
 <!-- Languages and Tools Section -->
