@@ -1,13 +1,14 @@
-![alt text](https://iili.io/JU1Yhg4.gif)
-
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Srinivas</h1>
-</div>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
+  <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
 </p>
 
+<!-- Introduction -->
+<div align="center">
+  <h1>Hi 👋, I'm Srinivas</h1>
+</div>
+
+<!-- Social Media & Profile Views -->
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivasa-k/"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30"/></a>
     
@@ -15,32 +16,36 @@
     
   <a href="mailto:your-email@gmail.com"><img src="https://iili.io/FSvPiLg.png" alt="Gmail" width="30"/></a>
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="srinivas-skr"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
+<!-- Main Content: About Me & Language Stats -->
+<!-- The `align="right"` image must come BEFORE the text block that wraps around it. -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
 
-🌱 I'm currently learning: Advanced data analysis libraries and cloud deployment strategies.
+- 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.
+- 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.
+- 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.
+- 💬 **Ask me about:** Python, REST APIs, and getting started with data science.
+- ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
-🔭 I'm currently working on: A full-stack web application that leverages machine learning.
-
-🤝 I'm looking to collaborate on: Open-source projects related to data tools or web development.
-
-💬 Ask me about: Python, REST APIs, and getting started with data science.
-
-⚡ Fun fact: I believe the best solutions are found at the intersection of creativity and code.
-
+<!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- This is your new GitHub Contribution Snake animation! -->
+<!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
+<!-- Languages and Tools Section -->
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
