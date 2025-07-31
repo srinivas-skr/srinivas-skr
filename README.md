@@ -1,14 +1,9 @@
 ![alt text](https://iili.io/JU1Yhg4.gif)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/srinivasa-k/"><img src="https://iili.io/FSvLudx.png" alt="LinkedIn" width="30"/></a>
