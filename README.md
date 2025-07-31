@@ -38,9 +38,9 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- Matrix Digital Rain -->
+<!-- Matrix Digital Rain (Self-Hosted) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e7c5576-2426-448f-8422-38605f6a1d2e.gif" alt="Matrix Code Rain"/>
+  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/main/212257468-1e7c5576-2426-448f-8422-38605f6a1d2e.gif" alt="Matrix Code Rain"/>
 </p>
 
 <!-- Languages and Tools Section -->
