@@ -38,9 +38,9 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- GitHub Contribution Snake -->
+<!-- Matrix Digital Rain -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://i.pinimg.com/originals/31/5a/2c/315a2c141da594268e34585f815a5198.gif" alt="Matrix Code Rain"/>
 </p>
 
 <!-- Languages and Tools Section -->
