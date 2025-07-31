@@ -34,8 +34,9 @@
 
 <br clear="right"/>
 
+<!-- This is your new GitHub Contribution Snake animation! -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator"/>
+  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
