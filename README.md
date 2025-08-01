@@ -38,9 +38,9 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- Isometric Contributions -->
+<!-- Animated GitHub Activity Graph -->
 <p align="center">
-  <img src="https://isometric.qa.pleaserecruit.me/api?username=srinivas-skr&theme=vision-friendly-dark" alt="Isometric Contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&bg_color=1d2a38&color=ffffff&line=36bcf7&point=36bcf7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <!-- Languages and Tools Section -->
