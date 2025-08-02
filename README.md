@@ -9,25 +9,26 @@
 </div>
 
 <!-- Social Media Badges with Profile Views on same line -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  
-  <div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/srinivasa-k/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-      
-    <a href="https://x.com/Skr_dev">
-      <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
-      
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
-  
-  <div></div>
-</div>
+<table width="100%">
+<tr>
+<td align="left">
+<img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/srinivasa-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://x.com/Skr_dev">
+<img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+</td>
+<td align="right">
+</td>
+</tr>
+</table>
 
 <!-- Animated Separator -->
 <p align="center">
