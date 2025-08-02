@@ -11,15 +11,15 @@
 <!-- Social Media Badges & Profile Views -->
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivasa-k/">
-    <img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
   <a href="https://x.com/Skr_dev">
-    <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
     
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
