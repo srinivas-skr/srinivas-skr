@@ -8,7 +8,7 @@
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinivas</h1>
 </div>
 
-<!-- Social Media Badges with Profile Views -->
+<!-- Social Media Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivasa-k/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +21,10 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
+</p>
+
+<!-- Profile Views -->
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
