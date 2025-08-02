@@ -52,6 +52,6 @@
 </p>
 
 <!-- GitHub Contribution Snake -->
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
