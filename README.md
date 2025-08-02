@@ -6,7 +6,7 @@
 <!-- Dynamic Typing Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&pause=1000&color=36BCF7¢er=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Srinivas;A+Full-Stack+Developer;Passionate+about+Python;...and+Data+Science." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=27&pause=1000&color=36BCF7¢er=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Srinivas;A+Full-Stack+Developer;Passionate+about+Python;...and+Data+Science." alt="Typing SVG" />
   </a>
 </div>
 
