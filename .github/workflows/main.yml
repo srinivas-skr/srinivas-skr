@@ -1,30 +1,32 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 6 hours
+  # This runs the job automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-  # Allows you to run this workflow manually from the Actions tab
+  # This allows you to run the job manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
-    # This is the crucial addition:
-    # We must explicitly give the job permission to write content to the repository.
-    permissions: 
+    
+    # This gives the Action permission to save the file to your repository
+    permissions:
       contents: write
-
+      
     steps:
+      # This step generates the snake.svg file
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The output will be a dark-themed snake that matches your profile
           outputs: |
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push generated file to the output branch
+      # This step pushes the generated file to a special branch named "output"
+      - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
