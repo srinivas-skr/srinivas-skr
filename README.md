@@ -3,6 +3,11 @@
   <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
 </p>
 
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
+
 <!-- Introduction -->
 <div align="center">
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinivas</h1>
@@ -26,11 +31,6 @@
 <!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
-</p>
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 <!-- Main Content: About Me & Language Stats -->
