@@ -1,11 +1,11 @@
+<!-- Profile Views in Top-Right Corner -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</div>
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
-</p>
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 <!-- Introduction -->
