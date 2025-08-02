@@ -3,9 +3,11 @@
   <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
 </p>
 
-<!-- Introduction -->
+<!-- Dynamic Typing Introduction -->
 <div align="center">
-  <h1>Hi 👋, I'm Srinivas</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=27&pause=1000&color=36BCF7¢er=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Srinivas;A+Full-Stack+Developer;Passionate+about+Python;...and+Data+Science." alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Social Media & Profile Views -->
