@@ -43,6 +43,17 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
+<!-- This is the new, interactive stats section -->
+## 📈 My GitHub Activity
+<p align="center">
+  <details>
+    <summary>
+      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
+    </summary>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  </details>
+</p>
+
 <!-- Languages and Tools Section -->
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
