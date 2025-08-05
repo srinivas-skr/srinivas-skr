@@ -1,89 +1,160 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
-</p>
-
-<!-- Introduction -->
+<!-- Dynamic Header with Typing Animation -->
 <div align="center">
-  <h1>Hi 👋, I'm Srinivas</h1>
+  <img src="https://iili.io/JU1Yhg4.gif" alt="Animated Developer Banner"/>
+  
+  <!-- Enhanced Introduction with Gradient Text Effect -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Srinivas;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </h1>
 </div>
 
-<!-- Social Media Badges & Profile Views - Single Line Layout -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td align="left" valign="middle">
-<img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</td>
-<td align="center" valign="middle">
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-&nbsp;
-<a href="https://x.com/Skr_dev">
-<img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/srinivasa-k/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</td>
-<td align="right" valign="middle">
-</td>
-</tr>
-</table>
+<!-- Enhanced Social Media Section with Better Layout -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="left" width="30%">
+        <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+      </td>
+      <td align="center" width="40%">
+        <a href="mailto:your-email@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://x.com/Skr_dev">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/srinivasa-k/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="right" width="30%">
+        <img src="https://img.shields.io/github/followers/srinivas-skr?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub followers"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
-</p>
+<!-- Beautiful Animated Separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 
-<!-- Main Content: About Me & Language Stats -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="60%" valign="top">
-🌱 <b>I'm currently learning:</b> Advanced data analysis libraries and cloud deployment strategies.<br><br>
-🔭 <b>I'm currently working on:</b> A full-stack web application that leverages machine learning.<br><br>
-🤝 <b>I'm looking to collaborate on:</b> Open-source projects related to data tools or web development.<br><br>
-💬 <b>Ask me about:</b> Python, REST APIs, and getting started with data science.<br><br>
-⚡ <b>Fun fact:</b> I believe the best solutions are found at the intersection of creativity and code.
-</td>
-<td width="40%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr" width="100%"/>
-</td>
-</tr>
-</table>
+<!-- About Me Section with Cards Layout -->
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2>🚀 About Me</h2>
+        
+        ```yaml
+        name: Srinivas
+        located_in: India
+        current_job: Full Stack Developer
+        education: ["Computer Science", "Data Science"]
+        
+        currently_learning: ["Advanced ML", "Cloud Architecture"]
+        2024_goals: ["Contribute to Open Source", "Build SaaS Product"]
+        
+        hobbies: ["Coding", "Reading Tech Blogs", "Gaming"]
+        ```
+        
+        <br/>
+        
+        🌱 **Learning:** Advanced data analysis libraries and cloud deployment strategies<br/>
+        🔭 **Working on:** A full-stack web application with machine learning<br/>
+        🤝 **Collaborate on:** Open-source projects and data tools<br/>
+        💬 **Ask me about:** Python, REST APIs, and getting started with data science<br/>
+        ⚡ **Fun fact:** The best solutions are at the intersection of creativity and code
+        
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+        
+        <br/><br/>
+        
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-skr&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Perfect Left Alignment Section -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td align="left">
+<!-- Enhanced GitHub Stats Section -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <details open>
+    <summary><b>🔥 Detailed Stats</b></summary>
+    <br/>
+    
+    <div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srinivas-skr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF"/>
+    </div>
+    
+    <br/>
+    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Contribution Graph" width="100%"/>
+  </details>
+</div>
 
-<b><font size="5">📈 My GitHub Activity</font></b>
+<!-- Tech Stack with Beautiful Icons -->
+<div align="center">
+  <h2>🛠️ Tech Arsenal</h2>
+  
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Tools & Others</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode" alt="Tools"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Alternative Badge Style -->
+  <details>
+    <summary><b>View All Technologies</b></summary>
+    <br/>
+    
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  </details>
+</div>
 
-<details>
-<summary>
-<img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
-</summary>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</details>
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=srinivas-skr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
-<br>
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
-<b><font size="4">🛠️ Languages and Tools:</font></b>
+<!-- Footer with Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&animation=twinkling"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</td>
-</tr>
-</table>
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote"/>
+</div>
