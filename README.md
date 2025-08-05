@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srinivas</h1>
+  <h1>Hi 👋, I'm Srinivas</h1>
 </div>
 
 <!-- Social Media Badges & Profile Views -->
@@ -31,19 +31,19 @@
 </p>
 
 <!-- Main Content: About Me & Language Stats -->
-<!-- The `align="right"` image must come BEFORE the text block that wraps around it. -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
 
-- 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.
-- 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.
-- 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.
-- 💬 **Ask me about:** Python, REST APIs, and getting started with data science.
-- ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
+<!-- THIS IS THE CORRECTED, PERFECTLY ALIGNED SECTION -->
+🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.<br>
+🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.<br>
+🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.<br>
+💬 **Ask me about:** Python, REST APIs, and getting started with data science.<br>
+⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- This is the new, interactive stats section -->
+<!-- The rest of your code remains the same -->
 ## 📈 My GitHub Activity
 <p align="center">
   <details>
@@ -54,7 +54,6 @@
   </details>
 </p>
 
-<!-- Languages and Tools Section -->
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -67,7 +66,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<!-- GitHub Contribution Snake -->
 <p>
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
