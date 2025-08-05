@@ -43,9 +43,9 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- THIS IS THE CORRECTED H2 HEADER -->
 <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-<p align="center">
+<!-- THIS SECTION IS NOW CORRECTLY ALIGNED TO THE LEFT -->
+<p align="left">
   <details>
     <summary>
       <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
@@ -54,7 +54,6 @@
   </details>
 </p>
 
-<!-- THIS IS THE CORRECTED H3 HEADER -->
 <p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -67,6 +66,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<p align="center">
+<!-- THIS SECTION IS NOW CORRECTLY ALIGNED TO THE LEFT -->
+<p align="left">
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
-</p>```
+</p>
