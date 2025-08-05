@@ -11,7 +11,8 @@
 <!-- Social Media Badges & Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-    
+</p>
+<p align="left">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -33,7 +34,6 @@
 <!-- Main Content: About Me & Language Stats -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
 
-<!-- THIS IS THE CORRECTED, PERFECTLY ALIGNED SECTION -->
 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.<br>
 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.<br>
 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.<br>
@@ -43,8 +43,8 @@
 <!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
 <br clear="right"/>
 
-<!-- The rest of your code remains the same -->
-## 📈 My GitHub Activity
+<!-- THIS IS THE CORRECTED H2 HEADER -->
+<p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
 <p align="center">
   <details>
     <summary>
@@ -54,7 +54,8 @@
   </details>
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<!-- THIS IS THE CORRECTED H3 HEADER -->
+<p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -66,6 +67,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
+</p>```
