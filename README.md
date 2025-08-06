@@ -63,8 +63,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400" alt="Most Used Languages"/>
       </td>
       <td>
+        <p align="left"><b><font size="5">📊 More GitHub Stats Details</font></b></p>
         <details>
-          <summary><b>📊 More GitHub Stats Details</b></summary>
+          <summary><b>Click to expand</b></summary>
           <br>
           <a href='https://github.com/srinivas-skr'>
             <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000" alt="Stats Overview"/>
