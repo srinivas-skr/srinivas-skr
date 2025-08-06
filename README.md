@@ -55,23 +55,8 @@
 
 <!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
 <div align="left">
-  <table style="border-collapse: collapse; border: none; cellspacing: 0; cellpadding: 0;">
-    <tr>
-      <td valign="top" style="border: none; padding: 0; margin: 0;">
-        <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400" alt="Most Used Languages"/>
-      </td>
-      <td valign="top" style="border: none; padding: 0; margin: 0; padding-left: 20px;">
-        <details>
-          <summary><b><font size="5">📊 More GitHub Stats Details</font></b></summary>
-          <br>
-          <a href='https://github.com/srinivas-skr'>
-            <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000" alt="Stats Overview"/>
-          </a>
-        </details>
-      </td>
-    </tr>
-  </table>
+  <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400" alt="Most Used Languages"/>
 </div>
 
 <!-- Contribution Graph Always Visible -->
