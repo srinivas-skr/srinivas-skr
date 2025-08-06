@@ -62,6 +62,11 @@
 <!-- Contribution Graph Always Visible -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
 
+<!-- Animated Separator After GitHub Activity -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
 <!-- Final Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
