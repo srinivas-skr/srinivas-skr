@@ -68,8 +68,11 @@
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
     <a href='https://github.com/srinivas-skr/github-stats-transparent'>
-      ![Stats Overview](https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/overview.svg)
-    </a>
+  
+![Stats Overview](https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/languages.svg)
+
+</a>
   </details>
 </div>
 
