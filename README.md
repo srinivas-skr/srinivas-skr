@@ -69,7 +69,7 @@
 
 <!-- Snake Animation at the Bottom -->
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/github-contribution-grid-snake.svg">
 </div>
 
 <!-- Animated Separator After Snake Animation -->
