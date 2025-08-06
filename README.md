@@ -38,34 +38,7 @@
 💬 **Ask me about:** Python, REST APIs, and getting started with data science.<br>
 ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
-<!-- Animated Separator Before GitHub Activity -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
-</p>
-
-<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
-<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
-
-<!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
-</div>
-
-<!-- Animated Separator for Activity Details -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
-
-<div align="center">
-  <details>
-    <summary><b>📊 More Activity Details</b></summary>
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
-  </details>
-</div>
-
-<!-- Another Animated Separator Before Tools -->
+<!-- Animated Separator Before Languages and Tools -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
@@ -81,6 +54,27 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+<!-- Animated Separator Before GitHub Activity -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
+<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
+
+<!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>📊 More Activity Details</b></summary>
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+  </details>
+</div>
 
 <!-- Final Animated Separator -->
 <p align="center">
