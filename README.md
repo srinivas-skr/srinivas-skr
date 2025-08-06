@@ -67,7 +67,7 @@
   <details>
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Statistics&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Srinivas's GitHub Stats" width="500"/>
   </details>
 </div>
 
