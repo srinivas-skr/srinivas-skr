@@ -13,20 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=srinivas-skr&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-email@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-    
-  <a href="https://x.com/Skr_dev">
+    
+  <a href="https://x.com/Skr_dev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-    
-  <a href="https://www.linkedin.com/in/srinivasa-k/">
+    
+  <a href="https://www.linkedin.com/in/srinivasa-k/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
-
-<!-- Animated Separator -->
+</p><!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
