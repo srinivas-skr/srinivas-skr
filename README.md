@@ -57,15 +57,19 @@
 
 <!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&card_width=400" alt="Most Used Languages"/>
+</div>
+
+<!-- Contribution Graph Always Visible -->
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
 </div>
 
 <div align="left">
   <details>
-    <summary><b>📊 More Activity Details</b></summary>
+    <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats" width="400"/>
   </details>
 </div>
 
