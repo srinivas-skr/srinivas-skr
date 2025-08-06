@@ -43,8 +43,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<p align="center"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
-<p align="center"> 
+<p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -60,15 +60,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
+<p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
 
 <!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
 </div>
 
-<div align="center">
+<div align="left">
   <details>
     <summary><b>📊 More Activity Details</b></summary>
     <br>
@@ -82,6 +82,6 @@
 </p>
 
 <!-- Snake Animation at the Bottom -->
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
 </div>
