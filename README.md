@@ -31,25 +31,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<!-- Main Content: About Me & Language Stats -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srinivas-skr"/>
-
+<!-- Main Content: About Me -->
 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.<br>
 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.<br>
 🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.<br>
 💬 **Ask me about:** Python, REST APIs, and getting started with data science.<br>
 ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
-<!-- This tag is crucial. It stops the text-wrapping around the right-aligned image. -->
-<br clear="right"/>
-
 <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-<!-- THIS IS THE FIX USING A DIV CONTAINER -->
+<!-- GitHub Stats and Language Stats Side by Side -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"/>
+</div>
+
 <div align="left">
   <details>
-    <summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
-    </summary>
+    <summary><b>📊 More Activity Details</b></summary>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
   </details>
 </div>
