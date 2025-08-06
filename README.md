@@ -38,22 +38,40 @@
 💬 **Ask me about:** Python, REST APIs, and getting started with data science.<br>
 ⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
 
-<p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-<!-- GitHub Stats and Language Stats Side by Side -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Srinivas's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"/>
+<!-- Animated Separator Before GitHub Activity -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
+<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
+<p align="center"><b><font size="5">📈 My GitHub Activity</font></b></p>
+
+<!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
 </div>
 
-<div align="left">
+<!-- Animated Separator for Activity Details -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<div align="center">
   <details>
     <summary><b>📊 More Activity Details</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
   </details>
 </div>
 
-<p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
-<p align="left"> 
+<!-- Another Animated Separator Before Tools -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
+<p align="center"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
+<p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -64,7 +82,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<!-- THIS IS THE FIX USING A DIV CONTAINER -->
-<div align="left">
+<!-- Final Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
+<!-- Snake Animation at the Bottom -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
 </div>
