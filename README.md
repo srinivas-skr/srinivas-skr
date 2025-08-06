@@ -25,11 +25,11 @@
 
 <p align="left"><b><font size="4">👨‍💻 About Me:</font></b></p>
 <!-- Main Content: About Me -->
-🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.<br>
-🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.<br>
-🤝 **I'm looking to collaborate on:** Open-source projects related to data tools or web development.<br>
-💬 **Ask me about:** Python, REST APIs, and getting started with data science.<br>
-⚡ **Fun fact:** I believe the best solutions are found at the intersection of creativity and code.
+🌱 <strong>I'm currently learning:</strong> Advanced data analysis libraries and cloud deployment strategies.<br>
+🔭 <strong>I'm currently working on:</strong> A full-stack web application that leverages machine learning.<br>
+🤝 <strong>I'm looking to collaborate on:</strong> Open-source projects related to data tools or web development.<br>
+💬 <strong>Ask me about:</strong> Python, REST APIs, and getting started with data science.<br>
+⚡ <strong>Fun fact:</strong> I believe the best solutions are found at the intersection of creativity and code.
 
 <!-- Animated Separator Before Languages and Tools -->
 <p align="center">
@@ -67,11 +67,13 @@
   <details>
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Stats Overview"/>
-    </div>
+    <a href='https://github.com/srinivas-skr'>
+      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000" alt="Stats Overview"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-skr&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Most Used Languages"/>
+    </a>
   </details>
 </div>
+
 <!-- Final Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
