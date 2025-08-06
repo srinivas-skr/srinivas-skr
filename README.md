@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<p align="left"><b><font size="4">👨‍💻 About Me:</font></b></p>
+<p align="left"><b><font size="4">👨‍💻 About Me</font></b></p>
 <!-- Main Content: About Me -->
 🌱 <strong>I'm currently learning:</strong> Advanced data analysis libraries and cloud deployment strategies.<br>
 🔭 <strong>I'm currently working on:</strong> A full-stack web application that leverages machine learning.<br>
@@ -36,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
+<p align="left"><b><font size="4">🛠️ Languages and Tools</font></b></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
