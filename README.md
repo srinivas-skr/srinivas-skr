@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </p>
 
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
+
 <p align="left"><b><font size="4">👨‍💻 About Me:</font></b></p>
 <!-- Main Content: About Me -->
 🌱 <strong>I'm currently learning:</strong> Advanced data analysis libraries and cloud deployment strategies.<br>
@@ -25,6 +30,11 @@
 🤝 <strong>I'm looking to collaborate on:</strong> Open-source projects related to data tools or web development.<br>
 💬 <strong>Ask me about:</strong> Python, REST APIs, and getting started with data science.<br>
 ⚡ <strong>Fun fact:</strong> I believe the best solutions are found at the intersection of creativity and code.
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+</p>
 
 <p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
 <p align="left"> 
@@ -36,6 +46,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
 <!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
