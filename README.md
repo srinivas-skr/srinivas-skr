@@ -23,6 +23,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
+<p align="left"><b><font size="4">👨‍💻 About Me:</font></b></p>
 <!-- Main Content: About Me -->
 🌱 **I'm currently learning:** Advanced data analysis libraries and cloud deployment strategies.<br>
 🔭 **I'm currently working on:** A full-stack web application that leverages machine learning.<br>
@@ -56,8 +57,8 @@
 
 <!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Stats&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Srinivas's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="200"/>
 </div>
 
 <div align="left">
