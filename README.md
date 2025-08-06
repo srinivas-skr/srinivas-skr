@@ -67,7 +67,9 @@
   <details>
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Srinivas's%20GitHub%20Statistics&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true" alt="Srinivas's GitHub Stats" width="400"/>
+    <a href='https://github.com/srinivas-skr/github-stats-transparent'>
+      ![Stats Overview](https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/overview.svg)
+    </a>
   </details>
 </div>
 
