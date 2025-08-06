@@ -68,8 +68,12 @@
 </p>
 
 <!-- Snake Animation at the Bottom -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/snake.svg">
+  </picture>
 </div>
 
 <!-- Animated Separator After Snake Animation -->
