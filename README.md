@@ -67,9 +67,9 @@
   <details>
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <a href='https://github.com/srinivas-skr/github-stats-transparent'>
-      <img src="https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview"/>
-      <img src="https://raw.githubusercontent.com/srinivas-skr/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages"/>
+    <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="Stats Overview"/>
+      <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages"/>
     </a>
   </details>
 </div>
