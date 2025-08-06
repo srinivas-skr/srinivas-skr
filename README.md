@@ -67,13 +67,11 @@
   <details>
     <summary><b>📊 More GitHub Stats Details</b></summary>
     <br>
-    <a href='https://github.com/srinivas-skr'>
-      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000" alt="Stats Overview"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-skr&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Most Used Languages"/>
-    </a>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-skr&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Stats Overview"/>
+    </div>
   </details>
 </div>
-
 <!-- Final Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
