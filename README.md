@@ -66,3 +66,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <!-- Dark mode snake -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light mode snake -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srinivas-skr/srinivas-skr/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
