@@ -24,60 +24,66 @@
 <!-- Animated Separator -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a-447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
 <p align="left"><b><font size="4">👨‍💻 About Me:</font></b></p>
 <!-- Main Content: About Me -->
-🌱 <strong>I'm currently learning:</strong> Microservices architecture and cloud-native development with Kubernetes.<br>
-🔭 <strong>I'm currently working on:</strong> A scalable back-end system for an enterprise application using Spring Boot.<br>
-🤝 <strong>I'm looking to collaborate on:</strong> Open-source projects in the Java/JVM ecosystem.<br>
-💬 <strong>Ask me about:</strong> Java, Spring Framework, REST APIs, and building robust back-end systems.<br>
-⚡ <strong>Fun fact:</strong> I enjoy refactoring complex code into clean, simple, and efficient components.
+🌱 <strong>I'm currently deepening my knowledge in:</strong> The Spring ecosystem (Spring Boot, Security) and exploring microservices architecture.<br>
+🔭 <strong>I'm currently working on:</strong> Building production-ready back-end applications with Java and Spring Boot, focusing on secure REST APIs, JWT authentication, and Docker containerization.<br>
+🤝 <strong>I'm looking for:</strong> Entry-level Java developer roles where I can apply my skills in building robust systems and contribute to real-world projects.<br>
+💬 <strong>Ask me about:</strong> Core Java, Spring Boot, REST API development, and database integration.<br>
+⚡ <strong>Fun fact:</strong> I'm passionate about architecting and building complete applications, from the database schema all the way to the API endpoints.
 
 <!-- Animated Separator -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a-447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
 <p align="left"><b><font size="4">🛠️ Languages and Tools:</font></b></p>
+<!-- Skills are categorized for clarity -->
 <p align="left"> 
+  <strong>Backend:</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <br>
+  <strong>Database:</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <br>
+  <strong>Other Languages:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <br>
+  <strong>Tools & DevOps:</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 <!-- Animated Separator -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a-447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
-<!-- GitHub Stats and Language Stats Side by Side with Enhanced Styling -->
-
+<!-- GitHub Stats and Language Stats -->
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400" alt="Most Used Languages"/>
 </div>
 
-<!-- Contribution Graph Always Visible -->
-
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
 
 <!-- Final Animated Separator -->
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a-447-11eb-908a-139a6edaec5c.gif" alt="separator" width="100%"/>
 </p>
 
 <!-- Snake Animation -->
-
 <p align="center">
   <picture>
     <!-- Dark mode snake -->
