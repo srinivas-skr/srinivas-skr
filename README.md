@@ -64,7 +64,8 @@
 
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400" alt="Most Used Languages"/>
+  <!-- THIS IS THE LINE THAT WAS FIXED -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400&cache_seconds=1800" alt="Most Used Languages"/>
 </div>
 
 <!-- Contribution Graph Always Visible -->
