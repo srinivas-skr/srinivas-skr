@@ -64,8 +64,8 @@
 
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-  <!-- NEW URL FROM A MORE RELIABLE, COMMUNITY-HOSTED INSTANCE -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srinivas-skr&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&cache_seconds=3600" alt="Most Used Languages"/>
+  <!-- ADDED &exclude_repo= TO FIX ACCURACY. REPLACE REPO NAMES WITH YOUR OWN -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srinivas-skr&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&cache_seconds=3600&exclude_repo=repo-to-exclude1,another-repo-to-exclude" alt="Most Used Languages"/>
 </div>
 
 <!-- Contribution Graph Always Visible -->
