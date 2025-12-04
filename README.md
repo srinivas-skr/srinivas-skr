@@ -64,8 +64,8 @@
 
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-  <!-- THIS IS THE NEW, FIXED URL -->
-  <img src="https://github-readme-stats.anuraghazra.app/api/top-langs?username=srinivas-skr&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&card_width=400&cache_seconds=3600&hide_progress=true" alt="Most Used Languages"/>
+  <!-- NEW, RELIABLE LINK FROM A DIFFERENT PROVIDER -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srinivas-skr&theme=transparent&hide_border=true&layout=compact" alt="Most Used Languages"/>
 </div>
 
 <!-- Contribution Graph Always Visible -->
