@@ -64,7 +64,6 @@
 
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-  <!-- I ADDED "&v=1" TO FORCE THE SERVER TO REFRESH THE IMAGE -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srinivas-skr&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&cache_seconds=0&v=1" alt="Most Used Languages"/>
 </div>
 
