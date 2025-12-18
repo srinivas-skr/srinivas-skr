@@ -1,22 +1,17 @@
-#
-# These rules apply globally to all repositories to improve language detection.
-#
-
-# Treat documentation files as documentation, not code.
+# Ignore documentation (not code)
 *.md linguist-documentation=true
-*.txt linguist-documentation=true
+LICENSE linguist-documentation=true
 
-# Ignore build artifacts and dependencies
-target/** linguist-generated=true
-pom.xml linguist-vendored
-*.lock linguist-vendored
+# Ignore build output and generated code
+target/ linguist-vendored
+build/ linguist-vendored
+bin/ linguist-vendored
 
-# Ignore configuration and environment files
-*.yml linguist-documentation=true
-*.yaml linguist-documentation=true
-Dockerfile linguist-documentation=true
-.env.* linguist-vendored
+# Ignore IDE config
+.vscode/ linguist-vendored
+.idea/ linguist-vendored
+*.iml linguist-vendored
+.settings/ linguist-vendored
+.classpath linguist-vendored
+.project linguist-vendored
 
-# Ignore IDE and editor-specific files
-.vscode/** linguist-vendored
-.idea/** linguist-vendored
